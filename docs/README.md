@@ -23,9 +23,9 @@
 
 <h3 align="left">Redes:</h3>
 <ul align="left">
-<li>Linkedin:</li>
-<li>Itchio:</li>
-<li>DIO:</li>
+<li><a href="https://www.linkedin.com/in/felipe-sihel-lipszyc-347762324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a></li>
+<li><a href="https://felipe-sihel.itch.io/">Itchio</a></li>
+<li><a href="https://web.dio.me/users/felipesihel?tab=achievements">DIO</a></li>
 </ul>
 
 
