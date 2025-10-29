@@ -22,8 +22,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fesihel&show_icons=true&locale=en" alt="fesihel" /></p>
 
 <h3 align="left">Redes:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipesihellipszyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe sihel lipszyc" height="30" width="40" /></a>
-</p>
+<ul align="left">
+<li>Linkedin:</li>
+<li>Itchio:</li>
+<li>DIO:</li>
+</ul>
 
 
