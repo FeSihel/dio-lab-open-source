@@ -21,4 +21,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fesihel&show_icons=true&locale=en&layout=compact" alt="fesihel" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fesihel&show_icons=true&locale=en" alt="fesihel" /></p>
 
+<h3 align="left">Redes:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/felipe sihel lipszyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe sihel lipszyc" height="30" width="40" /></a>
+</p>
+
 
