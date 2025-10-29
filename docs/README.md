@@ -9,5 +9,4 @@ Repositório forkado para alterações próprias, demonstrando contribuição. <
 De sugestão, algo que deixaria mais fácil, é considerar tutoriais do que fazer no github, além de usar git. O que torna mais fácil.
 De exemplo: como fazer uma cópia, branch e outros sem usar git.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
