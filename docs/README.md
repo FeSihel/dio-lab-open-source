@@ -23,7 +23,7 @@
 
 <h3 align="left">Redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe sihel lipszyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe sihel lipszyc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipesihellipszyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe sihel lipszyc" height="30" width="40" /></a>
 </p>
 
 
